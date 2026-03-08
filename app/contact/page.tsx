@@ -305,7 +305,7 @@ export default function Contact() {
               loading="lazy"
               allowFullScreen
               referrerPolicy="no-referrer-when-downgrade"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.9916256465157!2d2.3522219!3d48.8566140!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e2964e34e2d%3A0x8ddca9ee380ef7e0!2sParis!5e0!3m2!1sfr!2sfr!4v1640000000000"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.080750616547!2d3.0446328764089!3d36.744632770829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128fb27789b79991%3A0xf4a0df951cebf86a!2sChem.%20de%20la%20Vall%C3%A9e%2C%20Alger!5e0!3m2!1sfr!2sdz!4v1772941631762!5m2!1sfr!2sdz"
             />
           </div>
         </div>
